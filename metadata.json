@@ -1,0 +1,7 @@
+{
+  "name": "Kotha Barta",
+  "description": "A platform to engage in real-time voice conversations with a Gemini AI, driven by a specific system prompt. The application captures and displays the full transcript for data collection and analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
